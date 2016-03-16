@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="operator_array">
+        <item>Add</item>
+        <item>Multiply</item>
+    </string-array>
+
+    <string-array name="operator_vals">
+        <item>add</item>
+        <item>mult</item>
+    </string-array>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory />
+
+    <ListPreference
+        android:title="@string/operator"
+        android:key="operator_key"
+        android:entries="@array/operator_array"
+        android:entryValues="@array/operator_vals"/>
+
+</PreferenceScreen>

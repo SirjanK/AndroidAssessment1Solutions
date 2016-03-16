@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AndroidAssessment1Solutions</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_num">First Number</string>
+    <string name="second_num">Second Number</string>
+    <string name="button_str">Compute!</string>
+    <string name="output">Output</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="operator">Operator</string>
+</resources>
